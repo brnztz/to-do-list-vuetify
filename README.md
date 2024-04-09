@@ -1,12 +1,3 @@
-## ❗️ Important Links
-<br>
-- 📄 [Docs](https://vuetifyjs.com/)<br>
-- 🚨 [Issues](https://issues.vuetifyjs.com/)<br>
-- 🏬 [Store](https://store.vuetifyjs.com/)<br>
-- 🎮 [Playground](https://play.vuetifyjs.com/)<br>
-- 💬 [Discord](https://community.vuetifyjs.com)<br>
-<br>
-
 ## 💿 Install
 
 Após clonar o repositório, instale as dependências do projeto com o gerenciador de pacotes de sua escolha:
@@ -34,3 +25,12 @@ Após clonar o repositório, instale as dependências do projeto com o gerenciad
 | [bun](https://bun.sh/#getting-started)                        | `bun dev`      |
 
 ```
+
+## ❗️ Important Links
+<br>
+- 📄 [Docs](https://vuetifyjs.com/)<br>
+- 🚨 [Issues](https://issues.vuetifyjs.com/)<br>
+- 🏬 [Store](https://store.vuetifyjs.com/)<br>
+- 🎮 [Playground](https://play.vuetifyjs.com/)<br>
+- 💬 [Discord](https://community.vuetifyjs.com)<br>
+<br>
